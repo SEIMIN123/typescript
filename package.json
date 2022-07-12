@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "chart.js": "^3.8.0",
+    "pokemon": "^2.3.3"
+  }
+}
